@@ -28,7 +28,7 @@ App.propTypes = {
 }
 
 App.defaultProps = {
-  headline: 'Hello World',
+  headline: 'Hello Humans',
   showLogos: true,
   backgroundImage: '',
 }
